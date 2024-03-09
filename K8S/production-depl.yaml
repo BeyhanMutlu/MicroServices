@@ -1,0 +1,35 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: production-depl
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: productionservice
+  template:
+    metadata:
+      labels:
+        app: productionservice
+    spec:
+      containers:
+        - name: productionservice
+          image: beyhanm/productionservice:latest
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: production-clusterip-srv
+spec:
+  type: ClusterIP
+  selector:
+      app: productionservice
+  ports:
+  - name: productionservice
+    protocol: TCP
+    port: 8080
+    targetPort: 8080
+  - name: productiongrpc
+    protocol: TCP
+    port: 666
+    targetPort: 666
