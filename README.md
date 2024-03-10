@@ -1,6 +1,8 @@
 # Microservice architecture project
 In this project, a fully functional demo application has been developed from scratch using microservice architecture principles. The project demonstrates the creation, deployment, and operation of microservices to build a cohesive software system.
 
+![](https://github.com/BeyhanMutlu/Microservices/blob/main/diagram/projectFlowchart.png)
+
 ## Installation
 
 - If you have Docker Desktop, you can download Docker images. Start Docker Desktop and ensure that the Docker daemon is running. Open a terminal or command prompt.
