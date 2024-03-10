@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IK9XAVY5+R+iGVU8twn5Trn/2KAniWnfKdfFF+Gud1qeHkOHwylx7QAhAZPKC/A9p0J5QC8K/2Kw6nVE7wf2ZQ==",
+  "dgSpecHash": "2Xo7GSPhWtN3aVifCLiWa5VLNZo/Rt7u+FgZjt7HC8u19jdN2tAcgWUxQocrJW7CL+uc2aw+hNlj+sT7BWlkPQ==",
   "success": true,
-  "projectFilePath": "D:\\VisualStudioProjects\\MicroServiceProject\\OrderService\\OrderService.csproj",
+  "projectFilePath": "D:\\VisualStudioProjects\\Microservices\\OrderService\\OrderService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\90507\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\90507\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

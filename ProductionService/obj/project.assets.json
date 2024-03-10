@@ -5043,11 +5043,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VisualStudioProjects\\MicroServiceProject\\ProductionService\\ProductionService.csproj",
+      "projectUniqueName": "D:\\VisualStudioProjects\\Microservices\\ProductionService\\ProductionService.csproj",
       "projectName": "ProductionService",
-      "projectPath": "D:\\VisualStudioProjects\\MicroServiceProject\\ProductionService\\ProductionService.csproj",
+      "projectPath": "D:\\VisualStudioProjects\\Microservices\\ProductionService\\ProductionService.csproj",
       "packagesPath": "C:\\Users\\90507\\.nuget\\packages\\",
-      "outputPath": "D:\\VisualStudioProjects\\MicroServiceProject\\ProductionService\\obj\\",
+      "outputPath": "D:\\VisualStudioProjects\\Microservices\\ProductionService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\90507\\AppData\\Roaming\\NuGet\\NuGet.Config"

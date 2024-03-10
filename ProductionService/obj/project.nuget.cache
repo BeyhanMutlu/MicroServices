@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5KsZwQbdwzXCOZPNPcGEX2drk7WpFpKzR00vLInoMtGliiS8sDFWq8apN6B/vi3C2ABiXjG40V58aDE/SiZEdA==",
+  "dgSpecHash": "jPmim8zhQqkTvVPUTmFAQxbrlIwaEo3yPNEheYSOufJU3IQhJ6FnRBiNukQDdBcX0J60b0R/WCvLQdzaFxFoTw==",
   "success": true,
-  "projectFilePath": "D:\\VisualStudioProjects\\MicroServiceProject\\ProductionService\\ProductionService.csproj",
+  "projectFilePath": "D:\\VisualStudioProjects\\Microservices\\ProductionService\\ProductionService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\90507\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\90507\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
